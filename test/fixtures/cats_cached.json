@@ -1,0 +1,26 @@
+[
+    {
+      "id": "test",
+      "name": "test",
+      "description": "test",
+      "image": {
+        "id": "test",
+        "url": "test-url-image"
+      },
+      "origin": "test",
+      "adaptability": 1,
+      "temperament":"test"
+    },
+    {
+      "id": "test",
+      "name": "test",
+      "description": "test",
+      "image": {
+        "id": "test",
+        "url": "test-url-image"
+      },
+      "origin": "test",
+      "adaptability": 1,
+      "temperament":"test"
+    }
+  ]
